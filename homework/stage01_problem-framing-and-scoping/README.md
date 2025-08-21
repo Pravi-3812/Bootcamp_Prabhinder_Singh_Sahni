@@ -21,7 +21,7 @@ This project aims to combine Hawkes process modeling of trade arrivals with XGBo
   - Hawkes intensity and excitation features will be derived 
   - XGBoost predictive model to predict mid-price movemenr
   - Visualizations: mid-price, spread, imbalance, Hawkes intensity, feature importance  
-  - Optional: Streamlit dashboard for interactive monitoring
+  - Streamlit dashboard for interactive monitoring
 
 ---
 
